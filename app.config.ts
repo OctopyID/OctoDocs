@@ -34,14 +34,6 @@ export default defineAppConfig({
                 text: 'Powered by Docus',
                 href: 'https://docus.dev',
             },
-            textLinks: [
-                {
-                    text: 'GitHub',
-                    href: 'https://github.com/OctopyID',
-                    target: '_blank',
-                    rel: 'noopener'
-                }
-            ],
         }
     }
 });
